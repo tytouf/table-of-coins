@@ -9,5 +9,6 @@ file.
 
 ![alt text](https://github.com/tytouf/table-of-coins/raw/master/images/europe.png "Map of Europe")
 
-![alt text](https://github.com/tytouf/table-of-coins/raw/master/images/europe.svg "Rendered map of Europe")
+![alt text](https://github.com/tytouf/table-of-coins/raw/master/images/europe_rendered.png "Rendered map of Europe")
+![Link to svg file](https://github.com/tytouf/table-of-coins/raw/master/images/europe.svg "Rendered map of Europe")
 
