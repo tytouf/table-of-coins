@@ -1,4 +1,4 @@
-==== Table of Coins
+# Table of Coins
 
 A simple python program used to make a table covered with coins.
 The program generates an SVG file with staggered (or not) rows of coins
@@ -10,5 +10,6 @@ file.
 ![alt text](https://github.com/tytouf/table-of-coins/raw/master/images/europe.png "Map of Europe")
 
 ![alt text](https://github.com/tytouf/table-of-coins/raw/master/images/europe_rendered.png "Rendered map of Europe")
+
 ![Link to svg file](https://github.com/tytouf/table-of-coins/raw/master/images/europe.svg "Rendered map of Europe")
 
