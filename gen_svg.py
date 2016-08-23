@@ -25,7 +25,7 @@ parser.add_option("-s", "--staggered", dest="staggered",
 
 if options.image:
     img = Image.open(options.image)
-    #img.resize(options.width, options.height)
+    img = img.resize((options.width, options.height))
     data = list(img.getdata(0)) # get Red color
 
 print('<svg width="{}mm" height="{}mm">'.format(options.width, options.height))
